@@ -22,9 +22,9 @@ int main ()
     {
         cout << "  ";
     }
-    
-    cout << "* ";
-}
+   
+     cout << "* ";
+   }
         cout << endl ;
 
    }
